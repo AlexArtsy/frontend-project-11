@@ -4,5 +4,3 @@
 https://vercel.com/alexartsy/frontend-project-11
 
 <a href="https://codeclimate.com/github/AlexArtsy/frontend-project-11/maintainability"><img src="https://api.codeclimate.com/v1/badges/bbe18ca2ccf270c79144/maintainability" /></a>
-
-<a href="https://codeclimate.com/github/AlexArtsy/frontend-project-11/test_coverage"><img src="https://api.codeclimate.com/v1/badges/bbe18ca2ccf270c79144/test_coverage" /></a>
